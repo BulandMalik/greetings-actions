@@ -1,0 +1,1 @@
+[![Simple Pipeline](https://github.com/BulandMalik/greetings-actions/actions/workflows/simple-pipeline.yml/badge.svg)](https://github.com/BulandMalik/greetings-actions/actions/workflows/simple-pipeline.yml)
